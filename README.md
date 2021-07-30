@@ -1,0 +1,2 @@
+# gog
+Generator golang boilerplate
